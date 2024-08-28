@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+h1{
+  margin: 0;
+}
+
+input {
+  margin-top: 5 auto;
+}
+
+button {
+  margin: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+button {
+  margin-left: 5px;
+}
+
+
+
